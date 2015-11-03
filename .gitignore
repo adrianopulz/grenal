@@ -1,7 +1,7 @@
 # Sensitive information #
 #########################
 # Ignore configuration files that may contain sensitive information.
-docroot/sites/default/settings.local.php
+sites/default/settings.local.php
 dumps/*
 old
 
